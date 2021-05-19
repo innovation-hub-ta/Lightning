@@ -1,0 +1,6 @@
+{
+  "name": "DemoProject",
+  "identifier": "com.metrological.app.Router",
+  "version": "0.0.1",
+  "icon": "./static/icon.png"
+}

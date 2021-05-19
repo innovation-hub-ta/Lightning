@@ -1,0 +1,7 @@
+{
+  "name": "DemoProject",
+  "description": "Demo Project",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.3.0"
+  }
+}
